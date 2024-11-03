@@ -20,7 +20,12 @@ If you are using Visual Studio Code, create a folder called .vscode and add a la
           "--reload"
         ],
         "env": {
-          "APP_VERSION": "1.0.0"
+          "APP_VERSION": "1.0.0",
+          "APP_NAME": "Fast API Demo",
+          "AUTHOR": "Stephen L. McMahon",
+          "EMAIL": "fastapi-demo@slmcmahon.com.com",
+          "DESCRIPTION": "Fast API Demo application to help in getting started with Fast API!",
+          "URL": "https://publish.obsidian.md/slmcmahon"
         },
         "jinja": true
       }
